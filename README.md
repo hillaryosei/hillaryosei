@@ -2,7 +2,7 @@
 - 😄 Pronouns: (she/her)
 - 📕 Self-learning front-end web development
 - 🌱 I’m currently learning HTML, CSS, and JS
-- 💻 Currently earning a bachelor's in Media Studies & Technology @ NYU Gallatin 
+- 💻 Currently earning a bachelor's in Media Studies & Communications @ NYU Gallatin 
 
 <!---
 hillaryosei/hillaryosei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
