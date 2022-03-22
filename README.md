@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hillaryosei!
 - 😄 Pronouns: (she/her)
-- 🌱 I’m currently learning HTML, CSS, and JS
-- 💻 Currently studying the intersections of media and technology @ NYU Gallatin 
+- 🌱 Currently learning Python!
+- 💻 Aspiring front-end developer 
 
 <!---
 hillaryosei/hillaryosei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
