@@ -2,7 +2,7 @@
 
 ## About Me 
 
-☺️ I'm Hillary, an aspiring full-stack developer. I'm currently pursuing post-baccleaurate studies at [NYU Tandon's Bridge to Computer Science program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge) during the Summer 2022 term. Additionally, I am doing self-paced web development lessons through [The Odin Project](https://www.theodinproject.com)!
+☺️ I'm Hillary, an aspiring web developer.
 
 🎊 Outside of tech/coding, I love listening to music and watching all things Marvel.
 
