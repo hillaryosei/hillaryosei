@@ -1,7 +1,5 @@
 # Hi There! 👋🏾
 
-## About Me 
-
 ☺️ I'm Hillary, an aspiring web developer.
 
 🎊 Outside of tech/coding, I love listening to music and watching all things Marvel.
@@ -14,6 +12,7 @@
 ![python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=blue)
 ![css3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![html5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 
 
 
