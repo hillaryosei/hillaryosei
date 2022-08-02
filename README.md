@@ -4,8 +4,8 @@
 
 🎊 Outside of tech/coding, I love listening to music and watching all things Marvel.
 
-📬 You can contact me here: [LinkedIn](https://www.linkedin.com/in/hillary-osei)
-✍🏾 Read my blog here: [Hashnode](https://hillaryosei.hashnode.dev/)
+📬 You can contact me here: [LinkedIn](https://www.linkedin.com/in/hillary-osei)<br>
+✍🏾 You can also read my blog documenting my web development journey here: [Hashnode](https://hillaryosei.hashnode.dev/)
 
 ## Technologies I've Worked With
 
