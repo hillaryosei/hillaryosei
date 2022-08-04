@@ -1,6 +1,6 @@
 # Hi There! 👋🏾
 
-☺️ I'm Hillary, an aspiring web developer.
+☺️ I'm Hillary, a web developer.
 
 🎊 Outside of tech/coding, I love listening to music and watching all things Marvel.
 
