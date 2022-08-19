@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript on The Odin Project**
 
-- 📝 I regularly write articles on [hillaryosei.hashnode.dev](hillaryosei.hashnode.dev)
+- 📝 I (sometimes) write articles on [hillaryosei.hashnode.dev](hillaryosei.hashnode.dev)
 
 - 📫 How to reach me **hillaryosei11@gmail.com**
 
