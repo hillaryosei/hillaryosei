@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/hillaryosei_dev" target="blank"><img src="https://img.shields.io/twitter/follow/hillaryosei_dev?logo=twitter&style=for-the-badge" alt="hillaryosei_dev" /></a> </p>
 
-- 🔭 I’m currently working on **a Scarlet Witch + The Vision quote generator**
-
 - 🌱 I’m currently learning **JavaScript on The Odin Project**
 
 - 📝 I (sometimes) write articles on [hillaryosei.hashnode.dev](hillaryosei.hashnode.dev)
