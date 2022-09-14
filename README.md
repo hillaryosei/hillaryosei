@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Hillary Osei</h1>
 <h3 align="center">Software engineer @ 100Devs from Atlanta, GA 🍑</h3>
 
-- 🔭 I'm currently working on a **Beyoncé discography analyzer** using Python
-
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I'm currently working on a **Beyoncé lyrics analyzer** using Python
 
 - 📫 How to reach me **hillaryosei11@gmail.com**
 
